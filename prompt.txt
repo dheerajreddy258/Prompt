@@ -1,0 +1,26 @@
+{
+"name": "",
+"contact_info": {
+"email": "",
+"phone": "",
+"linkedin": ""
+},
+"summary": "",
+"education": [
+{
+"degree": "",
+"field": "",
+"university": "",
+"graduation_date": ""
+}
+],
+"work_experience": [
+{
+"company": "",
+"position": "",
+"dates_employed": "",
+"achievements": []
+}
+],
+"skills & Certifications": []
+}
